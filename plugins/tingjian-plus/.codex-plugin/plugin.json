@@ -1,0 +1,23 @@
+{
+  "interface": {
+    "displayName": "听见 Plus",
+    "shortDescription": "认真听你说，陪你慢慢理清楚",
+    "longDescription": "面向普通用户的交流与思考助手。先理解你的感受和现实处境，再按当前需要陪你整理问题、理解关系或探索下一步。尊重选择，不替你作重大决定。",
+    "developerName": "听见",
+    "category": "Productivity",
+    "capabilities": [
+      "Interactive"
+    ],
+    "defaultPrompt": "认真听我说，先理解我现在的感受和处境，再陪我把事情慢慢理清楚。",
+    "logo": "./assets/icon.png",
+    "composerIcon": "./assets/icon.png"
+  },
+  "name": "tingjian-plus",
+  "version": "1.0.1",
+  "description": "听见 Plus：帮助用户表达感受、整理思路、理解关系并探索个人成长。",
+  "author": {
+    "name": "听见"
+  },
+  "keywords": [],
+  "skills": "./skills"
+}

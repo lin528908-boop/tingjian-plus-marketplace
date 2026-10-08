@@ -1,0 +1,20 @@
+{
+  "name": "tingjian-marketplace",
+  "interface": {
+    "displayName": "听见插件"
+  },
+  "plugins": [
+    {
+      "name": "tingjian-plus",
+      "source": {
+        "source": "local",
+        "path": "./plugins/tingjian-plus"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}
